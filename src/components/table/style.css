@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.table-div{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
+.table-div table,.table-div table tbody{
+    border: 1px solid black;
+    width: 100%;
+}
+.table-div table tbody tr{
+width: 100%;
+border: 1px solid black;
+display: flex;
+margin: auto;
+justify-content: space-between;
+
+
+}
+.table-div table tr td {
+   
+    margin: 3px;
+   
+    padding: 3px;
+    
+}

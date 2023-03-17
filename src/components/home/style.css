@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+.home{
+  
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid black;
+    padding: 50px;
+    
+}
